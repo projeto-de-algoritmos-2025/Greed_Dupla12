@@ -23,66 +23,105 @@
 | 20/2016702  | Leticia Torres Soares Martins      |
 </div>
 
-## Sobre 
+# Sobre 
+
+## 🎓 Interval Partition com HEAP – Simulador de Aulas
+
+Este projeto simula a alocação de aulas em salas usando o algoritmo **Interval Partition**, utilizando uma **fila de prioridade (Heap)**. O objetivo é alocar o menor número possível de salas para um conjunto de aulas, garantindo que não haja sobreposição de horários.
+
+
 
 ## Screenshots
 
 
+---
 
-## Instalação 
-**Linguagem**: 
-## Pré-requisitos
+## 🛠️ Instalação 
+**Linguagem**: Python 3.10+
+
+## ✅ Pré-requisitos
 
 Antes de rodar o projeto, você precisará ter os seguintes programas instalados:
+
+- Python 3.10 ou superior
+- `pip` (gerenciador de pacotes Python)
 
 
 
 #### No macOS:
-Se você usa macOS, pode instalar com o Homebrew:
+Se você usa macOS, pode instalar o Python com o Homebrew:
 
 ```bash
+brew install python
+````
 
-```
+---
 
 #### No Linux (Ubuntu/Debian):
-No Linux, instale com:
+
+No Linux, instale o Python com:
 
 ```bash
-
+sudo apt update
+sudo apt install python3 python3-pip
 ```
 
-## Como compilar e executar o projeto
+---
+
+## 🚀 Como compilar e executar o projeto
+
 ### Passo 1: Clonar o repositório
-```bash
-
-```
-
-### Passo 2: Compilar o projeto
-Para compilar o projeto, use o comando make. Isso irá compilar todos os arquivos fonte e gerar o executável:
 
 ```bash
-
+git clone https://github.com/projeto-de-algoritmos-2025/Greed_Dupla12.git
+cd Greed_Dupla12
 ```
 
-### Passo 3: Rodar o projeto
-Após a compilação, execute o programa gerado:
+---
+
+### Passo 2: (Opcional) Criar ambiente virtual
 
 ```bash
-
+python3 -m venv venv
+source venv/bin/activate  # No Windows: venv\Scripts\activate
 ```
 
+---
 
-## Uso 
+### Passo 3: Entrar na pasta projeto
 
+```bash
+cd projeto/
+```
 
+---
 
-## Apresentação 
+### Passo 4: Rodar o projeto
 
+```bash
+python main.py
+```
 
+---
+
+## 🧪 Uso
+
+1. Execute o projeto no terminal.
+2. Insira os dados das aulas (nome, horário de início e de término).
+3. Digite `fim` para encerrar a entrada.
+4. O programa exibirá quantas salas são necessárias e quais aulas estão em cada uma.
+
+---
+
+## 📽️ Apresentação
+
+Este projeto foi desenvolvido com fins educacionais para demonstrar a aplicação do algoritmo de particionamento de intervalos usando estruturas eficientes como heap. A simulação auxilia no entendimento da alocação de recursos em problemas de agendamento.
+
+---
 
 <font size="3"><p style="text-align: center">Autor: [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Letícia Torres](https://github.com/leticiatmartins).</p></font>
 
-
+```
 
 
 
