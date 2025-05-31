@@ -101,6 +101,11 @@ cd projeto/
 ```bash
 python main.py
 ```
+ou
+
+```bash
+python3 main.py
+```
 
 ---
 
