@@ -33,6 +33,10 @@ Este projeto simula a alocação de aulas em salas usando o algoritmo **Interval
 
 ## Screenshots
 
+<p align="center">
+  <img src="Print1.png" alt="Interface gráfica do simulador de aulas" width="500"/>
+</p>
+<p align="center"><i>Interface gráfica do simulador de alocação de aulas</i></p>
 
 ---
 
