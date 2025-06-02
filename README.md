@@ -89,12 +89,12 @@ cd projeto/
 ### Passo 4: Rodar o projeto
 
 ```bash
-python main.py
+python interface_aulas.py 
 ```
 ou
 
 ```bash
-python3 main.py
+python3 interface_aulas.py   
 ```
 
 ---
