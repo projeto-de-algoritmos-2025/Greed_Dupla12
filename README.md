@@ -47,16 +47,6 @@ Antes de rodar o projeto, você precisará ter os seguintes programas instalados
 - `pip` (gerenciador de pacotes Python)
 
 
-
-#### No macOS:
-Se você usa macOS, pode instalar o Python com o Homebrew:
-
-```bash
-brew install python
-````
-
----
-
 #### No Linux (Ubuntu/Debian):
 
 No Linux, instale o Python com:
