@@ -91,7 +91,7 @@ cd projeto/
 ---
 
 ### Passo 4: Rodar o projeto
-
+Com interface gráfica:
 ```bash
 python interface_aulas.py 
 ```
@@ -100,7 +100,15 @@ ou
 ```bash
 python3 interface_aulas.py   
 ```
+Com interface no terminal:
+```bash
+python main.py 
+```
+ou
 
+```bash
+python3 main.py   
+```
 ---
 
 ## 🧪 Uso
@@ -118,9 +126,11 @@ Este projeto foi desenvolvido com fins educacionais para demonstrar a aplicaçã
 
 ---
 
+<div align="center">
+<a href="https://youtu.be/BuqdvTjvYt8?si=Oo-M2Ww2jL_tNSdO"><img src="Print2.png" width="50%"></a>
+</div>
+
+
 <font size="3"><p style="text-align: center">Autor: [Bianca Patrocínio](https://github.com/BiancaPatrocinio7) e [Letícia Torres](https://github.com/leticiatmartins).</p></font>
-
-```
-
 
 
